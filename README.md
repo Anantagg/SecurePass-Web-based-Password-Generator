@@ -25,6 +25,28 @@ Say goodbye to weak passwords and enhance your digital security with SecurePass.
 
 You can customize the following aspects of the Password Generator:
 1. Length: Adjust the password length using the slider. The minimum length is 2 characters, and the maximum length is 20 characters.
-2. Character types: Include or exclude character types by checking or unchecking the respective checkboxes:
+2. Character types: Include or exclude character types by checking or unchecking the respective checkboxes: 
+   1. Uppercase letters (A-Z)
+   2. Lowercase letters (a-z)
+   3. Numbers (0-9)     
+   4. Special characters (~`!@#$%^&*()_-+={[}]|:;"<,>.?/)
+   
+# Contributing
 
+Contributions to the Password Generator project are welcome and encouraged. If you find any bugs, have suggestions for improvement, or want to add new features, please submit an issue or open a pull request on the GitHub repository.
+
+# License
+
+This project is created by me, which means you are free to use, modify, and distribute the code in accordance with the terms of the license.
+
+# Acknowledgments
+
+1. This password generator project is made during the Web Dev Course of Love Babbar
+2. The design of the Password Generator is inspired by various password generator tools available online.
+
+# Contact
+
+If you have any questions or suggestions, feel free to contact me at anantaggcsai@gmail.com
+
+# Thank you for using the Password Generator!
 
